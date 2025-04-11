@@ -10,18 +10,21 @@ tags: [variáveis, JavaScript]
 ### Variáveis
 
 #### O que são variáveis
+---
 
 **Variáveis:** são espaços na memória de um computador onde podemos guardar alguma informação mutável.
 
 -[ ] -[ ] -[ ]
+
 -[ ] -[X] -[ ]
+
 -[ ] -[ ] -[ ]
+<sub>Um espaço preenchido na memória.</sub>
 
-<sub>Um espaço preenchi na memória.</sub>
+#### Declaração de variáveis em Javascritp (JS)
 
-####Declaração de variáveis em Javascritp (JS)
+Para declarar uma variável em JS usamos as palavras reservadas `var`, `let` ou `const`.
 
-Para declarar uma variável em JS usamos as palavras reservadas `var`, `let` ou `const`
 **var:** declara uma variável sem escopo, ou seja, uma variável que pode ser acessada em qualquer parte do código. O uso do var não é recomendado por conta dos possíveis
 erros e falta de segurança.
 
@@ -29,7 +32,8 @@ erros e falta de segurança.
 
 **const:** não declara uma variável, mas sim uma constante, ou seja, o valor declarado com const não é alterado no decorrer da execução do programa
 
-####Exemplos de utilização
+#### Exemplos de utilização
+---
 
 ```javascript
 var x = 12 
