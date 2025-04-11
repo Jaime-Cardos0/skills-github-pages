@@ -4,7 +4,7 @@ title: "Declaração de variáveis em JavaScript"
 author: Jaime Cardoso
 date: 2025-04-11 08:00:00
 categories: [programação, aprendizado]
-tags:[variáveis, JavaScript]
+tags: [variáveis, JavaScript]
 ---
 
 ### Variáveis
