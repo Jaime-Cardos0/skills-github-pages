@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Declaração de variáveis em JavaScript"
+date: 2025-04-11
 author: Jaime Cardoso
-date: 2025-04-11 08:00:00
 categories: [programação, aprendizado]
 tags: [variáveis, JavaScript]
 ---
@@ -35,5 +35,6 @@ erros e falta de segurança.
 var x = 12 
 let w = true
 const s = "String"
-
+```
+---
 
