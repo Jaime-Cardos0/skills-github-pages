@@ -1,5 +1,5 @@
 ---
-title: "The-Title"
+title: "Blog-Title"
 date: 2025-04-11
 ---
 -What you doing son?
